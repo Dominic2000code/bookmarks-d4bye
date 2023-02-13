@@ -22,4 +22,10 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+- use this command to simulate https
+
+```bash
+python manage.py runserver_plus --cert-file cert.crt
+```
+
 The site will be available at <http://127.0.0.1:8000/>
