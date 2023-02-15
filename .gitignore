@@ -161,3 +161,4 @@ cython_debug/
 
 cert.crt
 cert.key
+secrets.txt
